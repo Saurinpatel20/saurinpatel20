@@ -1,7 +1,7 @@
 ![Saurin Patel Banner](https://github.com/user-attachments/assets/c9254091-d2ba-47e3-8864-f5d341f61332)
 
-- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/6f0df538-ed16-4726-9519-e9f790bfce25" alt="Pin" width="16"/> I'm a 4A Computer Science student at the University of Waterloo.
-- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/c53edcf8-64de-4212-a653-8df25fc7cbc0" alt="Telescope" width="16"/> Searching for Summer 2025 Internships.
+- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/6f0df538-ed16-4726-9519-e9f790bfce25" alt="Pin" width="16"/> I'm a 4B Computer Science student at the University of Waterloo.
+- <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/c53edcf8-64de-4212-a653-8df25fc7cbc0" alt="Telescope" width="16"/> Searching for Spring 2026 New Grad opportunities.
 
 ## Experiences
 - <img src="https://github.com/Saurinpatel20/saurinpatel20/assets/62221622/7263b9c1-f08b-429c-9216-1f73445f5c06" alt="keyboard" width="16"/> Software Engineer @ [Faire](https://www.linkedin.com/company/fairewholesale/) - Spring 2024
